@@ -7,7 +7,7 @@
     planejamento, negociador e brainstormer, não pretendo parar tão cedo a continuar nos aprendizados e fortalecer-me nos desafios, espero agregar com o meu oferecimento destas
     habilidades vitais, cumprir metas e promover uma mudança positiva ao conjunto empresarial. </p>
   
-  <img src='img/front.png' height="150" alt='Front-End'/> <img src='img/back.png' height="150" alt='Back-End'/> <img src='img/meta.png' alt='Metas'/>
+  <img src='img/front.png' height="150" alt='Front-End'/> <img src='img/back.png' height="150" alt='Back-End'/> <img src='img/meta.png' height="150" alt='Metas'/>
 
 > <h3> Atualmente atuando no projeto Nósz: Comida para o nosso povo! </h3> <a href='https://github.com/TCC-nosz/'> </a> <img src='img/nosz.png' height="200" alt='Nósz'/>
 
